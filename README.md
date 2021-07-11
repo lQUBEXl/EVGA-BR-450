@@ -21,3 +21,7 @@ Now the fun begins...We open the unit up to find it is Double Switch Forward top
 
 ![](https://i.imgur.com/a3AuFcV.png)
 * The fan used is a Yate Loon (D12SH-12) with a sleeve bearing fan (generic).
+
+## Notes
+
+This is not an unique platform. If take a look, it is similar to the BeQuiet L8 lineup with a few modifications like changing out the secondary side group coils for two DC-DC modules, updated transformer, among taking out the 5V recitification circuit.
