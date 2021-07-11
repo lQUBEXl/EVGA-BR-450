@@ -1,5 +1,7 @@
 # EVGA-BR-450
 
+Preface: these are not my photos -- provided to me through others graciously. 
+
 ## Interior 
 Now the fun begins...We open the unit up to find it is Double Switch Forward topology with  DC-DC converters (regulation) apart from their daughter boards compared to more commonly and higher priced units. 
 ![](https://i.imgur.com/a7HN1UV.png)
