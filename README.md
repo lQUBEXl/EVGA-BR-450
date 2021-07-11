@@ -16,7 +16,7 @@ Now the fun begins...We open the unit up to find it is Double Switch Forward top
 * Top right near the entry plug
 
 ![](https://i.imgur.com/WS4hxhe.png)
-* The supervisor IC is a Sitronix ST9S429-PG14 that boasts OCP, OVP, and UVP on every rail (nice to see!). It's not typical for supervisor ICs (especially cheaper ones in cheaper units) to include OTP as it could be implemented elsewhere perhaps on an op-amp connected to a lock-out pin or on the fan controller itself. Testing will need to be included if any of these protections are set or used.
+* The supervisor IC is a Sitronix ST9S429-PG14 that boasts OCP, OVP, and UVP on every rail. It's not typical for supervisor ICs (especially cheaper ones in cheaper units) to include OTP as it could be implemented elsewhere perhaps on an op-amp connected to a lock-out pin or on the fan controller itself. Testing will need to be included if any of these protections are set or used (tolerances may be a bit too wide).
 
 ![](https://i.imgur.com/buSF1V4.png)
 * The unit hosts lower quality series from Teapo's lineup (but still are 105C degree rated).
@@ -26,4 +26,4 @@ Now the fun begins...We open the unit up to find it is Double Switch Forward top
 
 ## Notes
 
-This is not an unique platform. If take a look, it is similar to the BeQuiet L8 lineup with a few modifications like changing out the secondary side group coils for two DC-DC modules, updated transformer, among taking out the 5V recitification circuit. HEC (the OEM) likely had this unit as a cost-cut down to that of what they did for the CV650 from Corsair, LX from Cougar, System Power 9 from BeQuiet, and Masterwatt from Cooler Master.
+This is not an unique platform, but it is very very cheap. If take a look, it is similar to the BeQuiet L8 lineup with a few modifications like changing out the secondary side group coils for two DC-DC modules, updated transformer, among taking out the 5V recitification circuit. HEC (the OEM) likely had this unit as a cost-cut down to that of what they did for the CV650 from Corsair, LX from Cougar, System Power 9 from BeQuiet, and Masterwatt from Cooler Master.
