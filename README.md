@@ -3,9 +3,9 @@
 ## Interior 
 Now the fun begins...We open the unit up to find it is Double Switch Forward topology with  DC-DC converters (regulation) apart from their daughter boards compared to more commonly and higher priced units. 
 ![](https://i.imgur.com/a7HN1UV.png)
-Here is the main layout of the unit. From the top right, we can see the soldered onto a PCB part of the AC repactacle and beginnings of an EMI filter. Moving downward off the side of the chassis, we find a fuze, CM choke, and X + Y capacitor (very basic).
+| Here is the main layout of the unit. From the top right, we can see the soldered onto a PCB part of the AC repactacle and beginnings of an EMI filter. Moving downward off the side of the chassis, we find a fuze, CM choke, and X + Y capacitor (very basic). |
 
-Moving along towards the bottom right, we find the bridge rectifier (no heatsink -- increased temperatures) and the APFC stage.
+| Moving along towards the bottom right, we find the bridge rectifier (no heatsink -- increased temperatures) and the APFC stage. |
 
 ![](https://i.imgur.com/mPlbEt0.png)
 
