@@ -5,7 +5,7 @@ Now the fun begins...We open the unit up to find it is Double Switch Forward top
 ![](https://i.imgur.com/a7HN1UV.png)
 * Here is the main layout of the unit. From the top right, we can see the soldered onto a PCB part of the AC repactacle and beginnings of an EMI filter. Moving downward off the side of the chassis, we find a fuze, CM choke, and X + Y capacitor (very basic).
 
-* Moving along towards the bottom right, we find the bridge rectifier (no heatsink -- increased temperatures) and the APFC stage. |
+* Moving along towards the bottom right, we find the bridge rectifier (no heatsink -- increased temperatures) and the APFC stage. 
 
 ![](https://i.imgur.com/mPlbEt0.png)
 * The bulk capacitor is a 85C degree rated one from Elite rated for 400V threshold. We can also see the two switching MOSFETs that make up the actual switch-mode of the unit taking the voltage down from a boosted one from the APFC. 
